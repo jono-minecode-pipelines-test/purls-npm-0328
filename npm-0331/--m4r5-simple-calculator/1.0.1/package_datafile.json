@@ -1,0 +1,55 @@
+{
+    "name": "--m4r5-simple-calculator",
+    "version": "1.0.1",
+    "description": "simple calculator with typescript , Node.js and Inquirer",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "--m4r5-simple-calculator": "index.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": {
+        "name": "Manahil Khalid"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "--m4r5-simple-calculator@1.0.1",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-DgHb7JLZ+WbU5zInjBTxwfrt2uBIUMrqnoXKpY0WDeJWE33mANTc3CqCU/jkFRYWUkhJJRMItz5GaU3Pzbvyng==",
+        "shasum": "0b24499c89b16f7568b652ad29bc11818d7a875b",
+        "tarball": "https://registry.npmjs.org/--m4r5-simple-calculator/-/--m4r5-simple-calculator-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 14732,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIFt3o4WPkFOsYR/SBuvMHf8jbTDjG0+u99Dq4i15vUMtAiBtDT9NBy5JnulTckERNWh/XU9rKEQoFYZv285IaSTCvw=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "manahilkhalid__",
+        "email": "hussainmanahilkhalid@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "manahilkhalid__",
+            "email": "hussainmanahilkhalid@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--m4r5-simple-calculator_1.0.1_1711138058319_0.8861809691755966"
+    },
+    "_hasShrinkwrap": false
+}

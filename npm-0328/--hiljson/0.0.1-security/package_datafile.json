@@ -1,0 +1,35 @@
+{
+    "name": "--hiljson",
+    "version": "0.0.1-security",
+    "description": "security holding package",
+    "repository": "npm/security-holder",
+    "_id": "--hiljson@0.0.1-security",
+    "_integrity": "sha512-dQ207qV/YLeX7uynrSQ1cfOzXQVJkRu0nNKomsLp36XNw158IvoeNny44O18apwhBEKGF4u9WQOno6JkfmOK/A==",
+    "_resolved": "/tmp/tmp-8-Y40A1Tvlio7N",
+    "_from": "file:/tmp/tmp-8-Y40A1Tvlio7N",
+    "dist": {
+        "tarball": "https://registry.npmjs.org/--hiljson/-/--hiljson-0.0.1-security.tgz",
+        "integrity": "sha512-dQ207qV/YLeX7uynrSQ1cfOzXQVJkRu0nNKomsLp36XNw158IvoeNny44O18apwhBEKGF4u9WQOno6JkfmOK/A==",
+        "shasum": "b8315071f8a3f37495245d4b4d9f19055dcc968f",
+        "fileCount": 2,
+        "unpackedSize": 424,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQCfH6yYzVUFnFZp7ScykizER1LSWhr0/XKN3jvkmBtPogIgEGZ9tMK5wbQ5NXfJEwF01UeEI/w0Vl2vra9rPamWIes="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjkSI+ACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmrUJw/8CGF6+mZP5oNFSMdQkYyTbVOt3xyX9aTyVUDZQL7RopNHxZ9t\r\nX/a6bLPTk8CiosuLBLIPD1eixl6Ij2/e/316QXYmV8h36ijSnwQwrg0X1eqQ\r\n2HnSu+uPBCkVvkjMYXNj6fx7wIAYVcJXQXoWgWzh44AsiJ4pa46O3tLcMW8g\r\nGLYCqCq5oDj9ljhbhMxhSTUgVbozhInYslUe5/zZBcX8NepWdHE+cMt5IrvT\r\n1CjW7mVvbYHWBQJ3pMU3ckzBBNHDT3zr/8gjgVUIpAjioyaF7QH/lEeHARNZ\r\nxGss0cjsFj2XspOuPWSuPBOa7qjW/lyne4GENx+oUDFisqyOSETt7HL2E6mQ\r\nx7fYhLIAKw5u4U0ThEOsHgug1G1MRvSkG5Ix5GctJDd+T5DLXQaWeuYX8FFb\r\nD+RmkZa5aowTGaUdBZV4fBHQfB2NU8Of5Njhr1ehlZjF74Hzpbv6Y7BRIodg\r\nBSvNqwIsTheGAXgGwl5hbbXcTXiMUq5tFfRNMnPL6VnzqoNvxzJpTaCWjR9b\r\n6g2DqFFjAKnOMRUzhfvYHuPszYaIDVZyb0GHcsfTXrr4aCwojNdroM7XcSaW\r\n6rE9RmdYxAkXaHV2c5Crki13sivD0j27OLNnFJBzHJUvGOYEf4t7J+LgjjLq\r\nc2Xzxtoy9nIszd5tK8y+VIRqOOZts6MmtCQ=\r\n=fT3+\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "npm",
+        "email": "npm@npmjs.com"
+    },
+    "directories": {},
+    "maintainers": [],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/--hiljson_0.0.1-security_1670455870358_0.10955020381334113"
+    },
+    "_hasShrinkwrap": false
+}

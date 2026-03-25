@@ -1,0 +1,54 @@
+{
+    "name": "-b4rz4-atm-",
+    "version": "1.0.1",
+    "description": "a basic ATM for users",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "-b4rz4-atm-": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^9.2.16"
+    },
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7"
+    },
+    "_id": "-b4rz4-atm-@1.0.1",
+    "gitHead": "3e86484d445a21bf704de44bed160c11c31be640",
+    "_nodeVersion": "20.11.1",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-aTbVm6ZXCGzNl/mp4LdadkBSXziXhsXeAePGiiQ/7lQx9yalrDKsbjNFWfobfeInvxThRaJyMzWMXJbvjYUdEA==",
+        "shasum": "4160747719b57dd101aa46c1117f8bbdf85e66fc",
+        "tarball": "https://registry.npmjs.org/-b4rz4-atm-/-/-b4rz4-atm--1.0.1.tgz",
+        "fileCount": 6,
+        "unpackedSize": 17501,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCirst6JFMeEpfCxVe5QbIRK3l0X8ZlE5iKvHA5nAVIJQIhAN8SPqBigJGYhvMoY9jX9XWbHvjaCOX2OyYtnMAXUQTP"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "barzashafeeq12",
+        "email": "barzashafeeq12@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "barzashafeeq12",
+            "email": "barzashafeeq12@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/-b4rz4-atm-_1.0.1_1711739208640_0.4794287225032081"
+    },
+    "_hasShrinkwrap": false
+}
